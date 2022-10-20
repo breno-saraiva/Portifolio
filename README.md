@@ -1,2 +1,2 @@
 # Portifolio
- minha evolução na criação de sites
+um pouco da minha evolução como programador
